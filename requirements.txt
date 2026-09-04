@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto
+python-dotenv
+flask==3.0.0
+nest-asyncio==1.6.0
+aiohttp
